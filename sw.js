@@ -1,4 +1,4 @@
 self.addEventListener('push', (ev) => {
-    console.log(ev.data.json())
+    console.log(ev)
     self.registration.showNotification('Hello world!', {});
 });
