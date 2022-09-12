@@ -21,6 +21,9 @@ let sub = {
       "BLYCQPMAQTVAMbKab9XZ8VdGI8-_IYmUQ88qbkHgjhOj5kN0bKSUr2ip03WmZBZLHzdqDBFrDqMROWfrySNIZ0E",
     auth: "BIO3qrLHU_v4Gb0-4jhfyA",
   },
+  data: {
+    name: 'qwerty'
+  }
 };
 
 /* let sub = {
