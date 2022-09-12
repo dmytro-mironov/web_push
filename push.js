@@ -36,5 +36,6 @@ let sub = {
     auth: "8KHec4XUxMxi9yhM9nGGiw",
   },
 }; */
+const payload = JSON.stringify({ title: 'test' });
 
-push.sendNotification(sub, "test message");
+push.sendNotification(sub, payload);
